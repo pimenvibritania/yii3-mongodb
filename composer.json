@@ -14,7 +14,6 @@
     "require": {
         "mongodb/mongodb": "^1.12",
         "yiisoft/aliases": "^2.0",
-        "yiisoft/arrays": "^2.0",
-        "ext-mongo": "*"
+        "yiisoft/arrays": "^2.0"
     }
 }

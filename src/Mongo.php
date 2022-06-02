@@ -3,7 +3,7 @@ declare(strict_types=1);
 
 namespace Pimenvibritania\Yii3Mongodb;
 
-use MongoClient;
+use MongoDB\Client as MongoClient;
 use MongoDB\Collection;
 use MongoDB\Database;
 use Yiisoft\Aliases\Aliases;
