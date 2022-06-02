@@ -1,0 +1,20 @@
+{
+    "name": "pimenvibritania/yii3-mongodb",
+    "autoload": {
+        "psr-4": {
+            "Pimenvibritania\\Yii3Mongodb\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pimenvibritania",
+            "email": "pimenvibritania@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.12",
+        "yiisoft/aliases": "^2.0",
+        "yiisoft/arrays": "^2.0",
+        "ext-mongo": "*"
+    }
+}
