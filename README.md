@@ -72,7 +72,7 @@ example:
 <?php
 use Pimenvibritania\Yii3Mongodb\Mongo as MongoClient; 
 
-Class example {
+class Example {
     public function __construct(private MongoClient $mongoClient){}
     
     public function getAll(): array
