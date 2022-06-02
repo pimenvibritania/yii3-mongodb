@@ -94,4 +94,5 @@ Class example {
 }
 ```
 
-Notes: If you are using AWS `DocumentDB` or using an SSL/TLS connection, download this [certificates](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html#:~:text=RDS%20Proxy.-,Certificate%20bundles%20for%20AWS%20Regions,-To%20get%20a) based on your region
+## Notes
+If you are using AWS `DocumentDB` or using SSL/TLS connection, download this [certificates](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/UsingWithRDS.SSL.html#:~:text=RDS%20Proxy.-,Certificate%20bundles%20for%20AWS%20Regions,-To%20get%20a) based on your region
