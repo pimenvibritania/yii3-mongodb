@@ -1,7 +1,7 @@
 # Yii3 Mongodb
 MongoDB Service for Yii3 API.
 ## Requirement
-- PHP Mongo extension already installed 
+- PHP MongoDB extension/driver already installed 
 ## Installation
 ```shell
 composer require composer require pimenvibritania/yii3-mongodb
